@@ -1,1 +1,2 @@
 This is the test1 documentation log.
+Added another line to test2 documentation from branch issue/812-test2-content.
