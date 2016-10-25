@@ -1,4 +1,4 @@
 This is the test file for test 2. Do not remove this file!
 Adding more content to this document from branch issue/812-test2-content.
 Updating test2doc from branch issue #814.
-
+#Removed extra line
